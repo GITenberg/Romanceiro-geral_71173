@@ -1,0 +1,34 @@
+_repo: Romanceiro-geral_71173
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Braga, Joaquim Teófilo Fernandes
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Joaquim Theophilo Fernandes
+    - Braga, Theophilo
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga
+    - https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga
+description: ''
+gutenberg_issued: '2023-07-12'
+identifiers:
+  gutenberg: '71173'
+language: pt
+pgterms:marc905: 20060104023739braga
+pgterms:marc906: '1867'
+pgterms:marc907: PT
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aPortugal :$bImp. da Universidade, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Romanceiro geral
+url: http://www.gutenberg.org/ebooks/71173
