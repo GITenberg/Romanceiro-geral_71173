@@ -15,7 +15,12 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga
     - https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga
+covers:
+- cover_type: archival
+  image_path: 71173-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71173#Romanceiro-geral
 gutenberg_issued: '2023-07-12'
 identifiers:
   gutenberg: '71173'
